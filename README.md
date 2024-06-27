@@ -1,5 +1,5 @@
 <h2>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%3C%20Tyler%20Haag%20%2F%3E;%3C%20Welcome%20to%20my%20GitHub%20%2F%3E"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%3C%20Tyler%20Haag%20%2F%3E;%3C%20Welcome%20to%20my%20GitHub%20%2F%3E;%3C%20New projects coming soon!%20%2F%3E"></a>
 </h2>
 <ul>
     <li>🔭 I’m currently working on a web service similar to pomf.</li>
