@@ -15,7 +15,7 @@
 <h2>Skills</h2>
 <div id="tech-badges" align="center">
     <img src="https://img.shields.io/badge/HTML5-F16528?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-29A9DF?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-663399?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/PHP-505C90?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
     <img src="https://img.shields.io/badge/Laravel-FF2C20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
